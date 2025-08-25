@@ -206,8 +206,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## OUTPUT
 LED ON:
+
 ![ioton](https://github.com/user-attachments/assets/13201455-0f8c-4839-933f-7cfde53378de)
-OFF:
+
+LED OFF:
+
 ![iotoff](https://github.com/user-attachments/assets/a3f074fe-0b78-4f20-97fd-2093fb77152e)
 
 
